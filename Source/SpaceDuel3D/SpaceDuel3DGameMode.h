@@ -12,8 +12,8 @@ UCLASS()
 class SPACEDUEL3D_API ASpaceDuel3DGameMode : public AGameMode
 {
 	GENERATED_BODY()
-	
-	
+
+	ASpaceDuel3DGameMode();
 	
 	
 };
